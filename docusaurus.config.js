@@ -2,6 +2,7 @@
 const path = require("path");
 const visit = require("unist-util-visit");
 const FontPreloadPlugin = require("webpack-font-preload-plugin");
+const hello = "hello";
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
