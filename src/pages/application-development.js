@@ -4,6 +4,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import {SDKs} from "../components/SDKs";
 
 export default function ApplicationDevelopment() {
+const hello = "hello";
   const context = useDocusaurusContext();
   const {siteConfig = {}} = context;
   return (
