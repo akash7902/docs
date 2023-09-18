@@ -3,7 +3,7 @@ module.exports = {
   sidebarExplanation: [
     {
       type: "category",
-      label: "Explanation",
+label: "Explanation",
       collapsible: true,
       collapsed: false,
       items: [
