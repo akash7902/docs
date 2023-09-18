@@ -2,7 +2,7 @@ module.exports = {
   // Keploy Explanation Sidebar
   sidebarExplanation: [
     {
-    type: "category",
+      type: "category",
       label: "Explanation",
       collapsible: true,
       collapsed: false,
